@@ -1,5 +1,5 @@
 import sys
-from numpy.distutils.core import Extension, setup
+from setuptools import Extension, setup
 
 from mkldiscover import mkl_exists
 
