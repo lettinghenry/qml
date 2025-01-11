@@ -1,4 +1,4 @@
 numpy==1.13
 scipy
-scikit-learn
-six
+scikit-learn==1.6.1
+six==1.7.0
